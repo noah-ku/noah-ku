@@ -1,6 +1,7 @@
 # Hello 👋🏼
 * UC Berkeley 2025
 * Developer of [Epicure](https://bit.ly/epicuregame)
+* [Project Portfolio](https://noah-ku.github.io/portfolio/)
 
 <!--
 **dev-orange/dev-orange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
