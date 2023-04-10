@@ -4,4 +4,4 @@
 * [Project Portfolio](https://noah-ku.github.io/portfolio/)
 
 
-[![Top Langs](https://github-readme-stats-two-kappa-20.vercel.app/api/top-langs/?username=noah-ku&count_private=true&hide=shaderlab)](https://github.com/noah-ku/github-readme-stats)
+[![Top Langs](https://github-readme-stats-two-kappa-20.vercel.app/api/top-langs/?username=noah-ku&count_private=true&hide=shaderlab,html,scss)](https://github.com/noah-ku/github-readme-stats)
