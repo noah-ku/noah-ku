@@ -1,4 +1,4 @@
-# Hello 👋🏼
+# Hello! 👋🏼
 * UC Berkeley 2025
 * Developer of [Epicure](https://bit.ly/epicuregame)
 * [Project Portfolio](https://noah-ku.github.io/portfolio/)
