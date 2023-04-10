@@ -1,5 +1,5 @@
 # Hello! 👋🏼
-* 🌟  Computer Science at UC Berkeley (2025)
+* 🌟  CS at UC Berkeley (2025)
 * 🍔  Developer of [Epicure](https://bit.ly/epicuregame), a cooking game
 * 💻  Check out my [Project Portfolio](https://noah-ku.github.io/portfolio/)!
 
