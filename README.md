@@ -3,7 +3,27 @@
 * Developer of [Epicure](https://bit.ly/epicuregame)
 * [Project Portfolio](https://noah-ku.github.io/portfolio/)
 
-![Top Langs](https://github-readme-stats-noah-ku.vercel.app/api/top-langs/?username=noah-ku&count_private=true)
+# Hello 👋🏼
+* UC Berkeley 2025
+* Developer of [Epicure](https://bit.ly/epicuregame)
+* [Project Portfolio](https://noah-ku.github.io/portfolio/)
+
+[![Top Langs](https://github-readme-stats-1-noah-ku.vercel.app/api/top-langs/?username=noah-ku&count_private=true)](https://github.com/noah-ku/github-readme-stats)
+<!--
+**dev-orange/dev-orange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <!--
 **dev-orange/dev-orange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
